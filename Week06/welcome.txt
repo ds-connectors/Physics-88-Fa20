@@ -1,0 +1,8 @@
+Welcome to Physics 77, Fall 2019
+Topics we will learn about include:
+Data types
+Loops
+Functions
+Arrays
+Plotting
+Statistics
